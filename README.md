@@ -1,4 +1,4 @@
-### Sobre mi 👋
+# Sobre mi 👋
 
 Hola que tal, actualmente estoy cursando mis estudios universitarios en ingenieria Estadistica e Informatica en la Universidad Nacional del Altiplano.
 
